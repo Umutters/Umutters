@@ -8,8 +8,8 @@ Yenilikçi teknolojiler geliştirmeye meraklı, mobil uygulama mimarileri (Flutt
 
 ## 🚀 Nelerle İlgileniyorum?
 * 📱 **Mobil Geliştirme:** Flutter & Dart ile performanslı, clean architecture ve BLoC/Provider kullanan modern uygulamalar.
-* 🧠 **Yapay Zeka & Veri Analitiği:** Explainable AI (XAI) metotları (SHAP, LIME) ve makine öğrenmesi algoritmaları ile biyomedikal/metagenomik veri analizi.
-* 🌐 **Backend & Veri Tabanı:** Supabase, PostgreSQL, MongoDB ve RESTful API entegrasyonları.
+* 🧠 **Yapay Zeka & Veri Analitiği:** Explainable AI (XAI) metotları (SHAP, LIME) ve makine öğrenmesi algoritmaları ile veri analizi.
+* 🌐 **Backend & Veri Tabanı:** Supabase, PostgreSQL, ve RESTful API entegrasyonları.
 * 🛸 **Otonom Sistemler:** ROS ve İHA yer kontrol istasyonu yazılımları.
 
 ---
@@ -34,12 +34,13 @@ Yenilikçi teknolojiler geliştirmeye meraklı, mobil uygulama mimarileri (Flutt
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umutters&show_icons=true&theme=tokyonight&count_private=true" alt="Umutters's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umutters&theme=tokyonight" alt="Umutters's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Umutters&show_icons=true&theme=tokyonight&count_private=true" alt="Hasan's GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umutters&theme=tokyonight" alt="Hasan's Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight" alt="Top Langs" width="60%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Umutters&layout=compact&theme=tokyonight" alt="Top Langs" width="60%" />
 </p>
 
 ---
