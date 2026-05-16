@@ -43,9 +43,9 @@ Yenilikçi teknolojiler geliştirmeye meraklı, mobil uygulama mimarileri (Flutt
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Umutters&show_icons=true&theme=tokyonight&count_private=true" alt="Umut's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Umutters&show_icons=true&theme=tokyonight&count_private=true" alt="Umutters's GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umutters&theme=tokyonight" alt="Umut's Streak Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umutters&theme=tokyonight" alt="Umutters's Streak Stats" width="48%" />
 </p>
 
 <p align="center">
