@@ -10,7 +10,6 @@ Yenilikçi teknolojiler geliştirmeye meraklı, mobil uygulama mimarileri (Flutt
 * 📱 **Mobil Geliştirme:** Flutter & Dart ile performanslı, clean architecture ve BLoC/Provider kullanan modern uygulamalar.
 * 🧠 **Yapay Zeka & Veri Analitiği:** Explainable AI (XAI) metotları (SHAP, LIME) ve makine öğrenmesi algoritmaları ile veri analizi.
 * 🌐 **Backend & Veri Tabanı:** Supabase, PostgreSQL, ve RESTful API entegrasyonları.
-* 🛸 **Otonom Sistemler:** ROS ve İHA yer kontrol istasyonu yazılımları.
 
 ---
 
