@@ -1,6 +1,6 @@
 # Selamlar, ben Umut! 👋
 
-### Software Engineering Student |Mobile Developer
+### Software Engineering Student |Mobile engineer
 
 Yenilikçi teknolojiler geliştirmeye meraklı, mobil uygulama mimarileri (Flutter/Dart) ve yapay zeka entegrasyonları üzerinde çalışan bir yazılım mühendisliği öğrencisiyim. Temiz kod prensiplerine (SOLID) sadık kalarak, veri odaklı ve kullanıcı dostu çözümler üretmeyi seviyorum.
 
